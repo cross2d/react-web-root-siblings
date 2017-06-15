@@ -1,0 +1,22 @@
+{
+  "name": "@cross2d/react-web-root-siblings",
+  "version": "1.0.0",
+  "description": "react-web-root-siblings",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+      "release": "npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cross2d/react-web-root-siblings.git"
+  },
+  "author": "Colin3dmax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cross2d/react-web-root-siblings/issues"
+  },
+  "homepage": "https://github.com/cross2d/react-web-root-siblings#readme"
+}
